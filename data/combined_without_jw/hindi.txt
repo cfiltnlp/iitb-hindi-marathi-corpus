@@ -1,0 +1,19 @@
+241846 train.hi
+5821245 train.hi
+6497796 tok.hi
+143189
+
+
+10389 test.hi
+228425 test.hi
+255372 tok.hi
+21122
+
+
+
+3999 tune.hi
+92656 tune.hi
+102421 tok.hi
+11481
+
+

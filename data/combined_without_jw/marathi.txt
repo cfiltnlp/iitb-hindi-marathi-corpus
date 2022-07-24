@@ -1,0 +1,18 @@
+241846 train.mr
+4697528 train.mr
+5098544 tok.mr
+279948
+
+
+
+10389 test.mr
+185733 test.mr
+201482 tok.mr
+34820
+
+
+
+3999 tune.mr
+71427 tune.mr
+78702 tok.mr
+18071
